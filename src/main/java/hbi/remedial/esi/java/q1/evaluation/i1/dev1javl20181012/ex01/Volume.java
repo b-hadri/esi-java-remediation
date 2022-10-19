@@ -2,7 +2,7 @@ package hbi.remedial.esi.java.q1.evaluation.i1.dev1javl20181012.ex01;
 
 import java.util.Scanner;
 
-public class Main {
+public class Volume {
 
     public static void main(String[] args) {
 
